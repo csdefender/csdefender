@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csdefender
-- 👀 I’m interested in Go 
+- 👀 I’m interested in Go and React
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Go
 - 📫 How to reach me csdefender@yahoo.com
