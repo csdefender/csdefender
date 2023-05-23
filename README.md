@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csdefender
+- 👋 Hi, I’m @csd
 - 👀 I’m interested in Go and React
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Go
